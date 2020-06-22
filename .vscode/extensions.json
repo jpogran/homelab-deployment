@@ -1,5 +1,6 @@
 {
   "recommendations": [
-    "brandontosch.hiera-eyaml"
+    "brandontosch.hiera-eyaml",
+    "puppet.puppet-vscode"
   ]
 }
