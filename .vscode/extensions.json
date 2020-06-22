@@ -1,6 +1,7 @@
 {
   "recommendations": [
     "brandontosch.hiera-eyaml",
-    "puppet.puppet-vscode"
+    "puppet.puppet-vscode",
+    "redhat.vscode-yaml"
   ]
 }
